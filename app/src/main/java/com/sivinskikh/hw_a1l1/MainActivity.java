@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
     private TextView weatherView;
 
 
-
     @SuppressLint("SetTextI18n")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         weatherView = findViewById(R.id.testview);
         weatherView.setText(getString(R.string.weather) + "\n" +
                 getString(R.string.userLocation) + "\n" +
-                getString(R.string.weatherCondition) +  "\n" +
+                getString(R.string.weatherCondition) + "\n" +
                 getString(R.string.temperature));
     }
 
