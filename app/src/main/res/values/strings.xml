@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name" translatable="false">Homework Android 1 lesson 1</string>
     <string name="weather">Weather</string>
+    <string name="weatherCondition">Sunny</string>
+    <string name="temperature" translatable="false">+5</string>
+    <string name="userLocation">Moscow</string>
 </resources>
