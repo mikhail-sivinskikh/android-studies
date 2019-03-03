@@ -1,2 +1,0 @@
-# android-studies
-android studies
